@@ -1,0 +1,31 @@
+# GitHub Pages / Jekyll configuration for Xinyi (Celia) Li
+# Repository: https://github.com/Xinyi0426/demo.github.io
+
+title: "Xinyi (Celia) Li"
+description: >-
+  Ph.D. Student in Statistics at Rice University | Biostatistics,
+  Clinical Trials, Statistical Methodology, and Computational Statistics
+
+# This repository is a GitHub Pages project site (not a user site).
+url: "https://xinyi0426.github.io"
+baseurl: "/demo.github.io"
+
+# GitHub Pages-supported Jekyll theme
+theme: minima
+
+# Author details
+author:
+  name: "Xinyi (Celia) Li"
+  email: "xinyili@rice.edu"
+
+github_username: Xinyi0426
+
+# Site settings
+lang: en
+markdown: kramdown
+
+# Avoid exposing files that aren't site content
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
