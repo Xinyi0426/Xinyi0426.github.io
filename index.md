@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Xinyi (Celia) Li
+# Xinyi Li
 
 **Ph.D. Student in Statistics · Rice University**  
 *Biostatistics · Clinical Trials · Statistical Methodology · Computational Statistics*
