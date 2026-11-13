@@ -1,4 +1,4 @@
-# Hi, I'm Xinyi (Celia) Li! 👋
+# Hi, I'm Xinyi Li! 👋
 
 **Ph.D. Student in Statistics @ Rice University**  
 **Biostatistics · Clinical Trials · Statistical Methodology · Computational Statistics**
