@@ -1,6 +1,6 @@
 
-# GitHub Pages Configuration
-# Personal Academic Website — Xinyi Li
+# Personal Academic Website
+# Xinyi Li
 
 title: "Xinyi Li"
 
@@ -17,9 +17,8 @@ baseurl: ""
 theme: minima
 
 # Author Information
-author:
-  name: "Xinyi Li"
-  email: "xinyili@rice.edu"
+author: "Xinyi Li"
+email: "xinyili@rice.edu"
 
 github_username: Xinyi0426
 
@@ -27,7 +26,7 @@ github_username: Xinyi0426
 lang: en
 markdown: kramdown
 
-# Files to exclude from the published website
+# Excluded Files
 exclude:
   - README.md
   - Gemfile
